@@ -9,6 +9,8 @@
 Support vector machine is the most common classification algorithms that regularly produces remarkable results. It is an application of the concept of Vector Spaces in Linear Algebra. Support Vector Machine, or SVM, is a discriminative classifier that works by finding a decision surface. It is a supervised machine learning algorithm. In 
 this algorithm, we plot each data item as a point in an ndimensional space (where n is the number of features) with the value of each feature being the value of a particular coordinate.
 </p>
+![image](https://user-images.githubusercontent.com/74585503/115437709-23ed1c00-a22a-11eb-8c53-fe4eaee824a4.png)
+![image](https://user-images.githubusercontent.com/74585503/115437729-2d768400-a22a-11eb-842a-b70b204ab309.png)
 
 
 
